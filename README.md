@@ -45,3 +45,5 @@ cd client1
 cd client2
 ./client 127.0.0.1 9999
 ```
+## License
+Copyright (c) 2020 Ajit Kumar
